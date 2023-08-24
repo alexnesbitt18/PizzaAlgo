@@ -1,5 +1,8 @@
 1. Locate the closest pizza place to your area.
 2. Decide what type of pizza you want. 
+2a. Make any custom adjustments to the sauce
+2b. Make any custom adjustments to the cheese. 
 3. Order the pizza from the restaurant. 
 4. Wait for the delivery of the pizza. 
-5. Enjoy the delicious pizza. 
+5. Add a tip to the delivery person.
+6. Enjoy the delicious pizza. 
